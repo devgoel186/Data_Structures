@@ -15,4 +15,4 @@
 
 --> **TO SEE OTHER COURSES AND THEIR SOLUTIONS, CLICK ON ONE OF THE LINKS BELOW**
 
-* ALGORITHMIC TOOLBOX - (Algorithmic Toolbox Algos (Solutions and Explanations))[https://github.com/devgoel186/Algorithmic_Toolbox_Algos]
+* ALGORITHMIC TOOLBOX - [Algorithmic Toolbox Algos (Solutions and Explanations)](https://github.com/devgoel186/Algorithmic_Toolbox_Algos)
