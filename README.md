@@ -5,7 +5,7 @@
 ## CONTENTS
 
 * **Checking Code Brackets** - Fast implementation, all cases working.
-* **Extending Stack Interface** - Fast solution, testing code included.
+* **Extending Stack Interface (Stack with Max)** - Fast solution, testing code included.
 
 ### EXTRAS
 
